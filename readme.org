@@ -8,21 +8,19 @@ section.
 
 The EFI folder can be used to boot into a USB installer, or for regular booting.
 ** Tested hardware configuration
-- Dell XPS 9570
-  - CPU: Intel i9-8950HK
-  - Memory: 32GB 2x SK Hynix HMA82GS6CJR8N-VK
+- Dell XPS 7590
+  - CPU: Intel i7-XXX
+  - Memory: 16GB XX
   - Display: 4k Sharp
-  - SSD: Toshiba 2TB KXG50PNV2T04
-  - Touchpad: Synaptics SYNA2393
-  - Touchscreen: Wacom WCOM488F
-  - Sound: Realtek ALC3266 (similar to ALC298)
+  - SSD: Toshiba XX
+  - Touchpad: Synaptics SYNA2393 ??
+  - Touchscreen: Wacom WCOM488F ??
+  - Sound: Realtek ALC3266 (similar to ALC298)??
   - Goodix fingerprint reader
 - Software environment
   - Dual-booting Windows 10
 ** Tested software configurations
-- macOS Mojave: 10.14.0 - 10.14.6 (builds 18G84, 18G87, 18G95, 18G103, 18G1012)
-- macOS Catalina: 10.15 - 10.15.1
-- BIOS: 1.5.0 - 1.13.0
+- macOS Mojave: 10.14.6
 * Hardware
 ** Graphics
 Integrated Intel UHD Graphics 630 support is handled by [[https://github.com/acidanthera/WhateverGreen][WhateverGreen]], and configured in the
