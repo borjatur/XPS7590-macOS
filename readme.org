@@ -3,10 +3,10 @@
 Run macOS Catalina (10.15.2) on a Dell XPS 7590.
 
 - =This Fork is still pretty near to Bavariancakes Repo.=
-- =It still needs some adaptation an rewriting for the specific model=
+- =It still needs some adaptation and rewriting for the specific model=
 - =Especially this Readme needs some rewriting=
 - =I only updated and added some kexts, and updated Clover.=
-- =With more time on my hands I will try to look into the DSDTs, but for the moment Bavariancakes are working fine.=
+- =With more time on my hands I will try to look into the DSDTs, but at the moment Bavariancakes are working fine.=
 - =So use with caution and if you know what you're doing!=
 
 Most pieces are fully supported, and this setup can be used as your main machine. A few pieces are
