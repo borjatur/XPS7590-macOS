@@ -1,2 +1,5 @@
 
 .DS_Store
+EFI/CLOVER/themes/*
+.empty
+*.bak
